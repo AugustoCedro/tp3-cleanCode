@@ -1,6 +1,6 @@
-package ex1;
+import ex1.Produto;
+import ex1.Status;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public final class Pedido {

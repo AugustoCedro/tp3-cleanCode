@@ -1,6 +1,5 @@
-package ex1;
+import ex1.Pedido;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public final class Cliente {
